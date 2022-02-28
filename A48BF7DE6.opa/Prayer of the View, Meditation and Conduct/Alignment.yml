@@ -1,0 +1,28 @@
+segment_sources:
+  PB24DB784:
+    type: origin_type
+    relation: translation
+    language: en
+  PEA34D30B:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  e6083ec5262241bcb6084d0430c141fe:
+    PB24DB784: 36792f4b683a4d27986094039636f102
+    PEA34D30B: 39761f6c93ba46b29b585abd9e7404e0
+  ddd59072f72e4f5db83cb5800281df1b:
+    PB24DB784: 540aff0b8d364519a0a20ed5a416f02f
+    PEA34D30B: f1acb7318af64ae18d3958a467852291
+  b180c1ae32f54f6592a33f46cd845dab:
+    PB24DB784: 61e78b3b18ce4f64a7a3f6a5fed58cd4
+    PEA34D30B: 9aaa7ff64ff84d0ea316283dbb76d7d8
+  27ed68fa938c45c49ed41458f93729b7:
+    PB24DB784: fb4943fe7cf8472f8074ce8353828d3b
+    PEA34D30B: 6cb285073381479da44d0e722070ded3
+  cf129556c2934c248065bff8bcfe3338:
+    PB24DB784: 7ed8c22cc8b34d769f7a837bd77bb05f
+    PEA34D30B: 7cdc10c2c2dc4d8fac5f5c16236c8040
+  c8ce3e79faa74b59b74744bc43bdc739:
+    PB24DB784: 4c718e3c7d444cb9ac7008897e7cb073
+    PEA34D30B: e667d4ab782e4c5f9f0e7a4a66e3795d
